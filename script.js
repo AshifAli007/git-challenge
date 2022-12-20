@@ -1,3 +1,3 @@
 let a = 12;
-
-console.group(a);
+let b = 19;
+console.log(a + b);
